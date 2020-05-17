@@ -6,11 +6,11 @@ Note: train.csv is too big to upload. The data in this repo is the reduced data 
 
 https://www.kaggle.com/c/expedia-hotel-recommendations/data
 
-## Group Members 
+## Group Members
 
-Mikio Tada
-Dillon Quan
-Shrikar Thodla
+- Mikio Tada
+- Dillon Quan
+- Shrikar Thodla
 
 # Project Summary
 
